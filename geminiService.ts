@@ -1,4 +1,4 @@
-import { UserProfile, RecommendationResponse } from "../types";
+import { UserProfile, RecommendationResponse } from "./types";
 
 export const getBikeRecommendation = async (profile: UserProfile): Promise<RecommendationResponse> => {
   try {
