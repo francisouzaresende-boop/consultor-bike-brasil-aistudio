@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import FormSelect from './FormSelect';
 import ResultsView from './ResultsView';
-import { ... } from './geminiService';
+import { getBikeRecommendation } from './geminiService';
 import { UserProfile, RecommendationResponse } from './types';
 import { Bike, Loader2, Mountain, Compass, ChevronRight, Activity, Zap, Shield } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
