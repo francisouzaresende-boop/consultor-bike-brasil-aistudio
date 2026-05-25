@@ -1,0 +1,8 @@
+{
+  "name": "Consultor Bike Brasil",
+  "description": "Seu especialista pessoal em bicicletas, peças e acessórios focado no mercado brasileiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
